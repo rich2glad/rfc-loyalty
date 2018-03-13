@@ -1,4 +1,4 @@
-package com.rfb.web.rest.vm;
+package com.rfc.web.rest.vm;
 
 import ch.qos.logback.classic.Logger;
 

@@ -1,6 +1,6 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
-import com.rfb.service.SocialService;
+import com.rfc.service.SocialService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

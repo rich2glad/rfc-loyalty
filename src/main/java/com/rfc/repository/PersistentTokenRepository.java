@@ -1,7 +1,7 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.domain.PersistentToken;
-import com.rfb.domain.User;
+import com.rfc.domain.PersistentToken;
+import com.rfc.domain.User;
 import java.time.LocalDate;
 import org.springframework.data.jpa.repository.JpaRepository;
 

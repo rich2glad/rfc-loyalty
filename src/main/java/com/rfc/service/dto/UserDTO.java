@@ -1,10 +1,10 @@
-package com.rfb.service.dto;
+package com.rfc.service.dto;
 
-import com.rfb.config.Constants;
+import com.rfc.config.Constants;
 
-import com.rfb.domain.Authority;
-import com.rfb.domain.RfbLocation;
-import com.rfb.domain.User;
+import com.rfc.domain.Authority;
+import com.rfc.domain.RfbLocation;
+import com.rfc.domain.User;
 
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotBlank;

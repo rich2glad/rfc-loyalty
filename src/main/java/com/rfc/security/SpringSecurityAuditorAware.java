@@ -1,6 +1,6 @@
-package com.rfb.security;
+package com.rfc.security;
 
-import com.rfb.config.Constants;
+import com.rfc.config.Constants;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.stereotype.Component;

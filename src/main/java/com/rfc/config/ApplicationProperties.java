@@ -1,4 +1,4 @@
-package com.rfb.config;
+package com.rfc.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

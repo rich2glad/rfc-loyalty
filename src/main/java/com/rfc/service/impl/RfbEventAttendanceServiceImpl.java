@@ -1,10 +1,10 @@
-package com.rfb.service.impl;
+package com.rfc.service.impl;
 
-import com.rfb.domain.RfbEventAttendance;
-import com.rfb.repository.RfbEventAttendanceRepository;
-import com.rfb.service.RfbEventAttendanceService;
-import com.rfb.service.dto.RfbEventAttendanceDTO;
-import com.rfb.service.mapper.RfbEventAttendanceMapper;
+import com.rfc.domain.RfbEventAttendance;
+import com.rfc.repository.RfbEventAttendanceRepository;
+import com.rfc.service.RfbEventAttendanceService;
+import com.rfc.service.dto.RfbEventAttendanceDTO;
+import com.rfc.service.mapper.RfbEventAttendanceMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.Page;

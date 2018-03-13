@@ -1,4 +1,4 @@
-package com.rfb.web.rest.util;
+package com.rfc.web.rest.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.domain.User;
+import com.rfc.domain.User;
 
 import io.github.jhipster.config.JHipsterProperties;
 

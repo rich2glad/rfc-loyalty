@@ -1,6 +1,6 @@
-package com.rfb.config;
+package com.rfc.config;
 
-import com.rfb.security.*;
+import com.rfc.security.*;
 
 import io.github.jhipster.config.JHipsterProperties;
 import io.github.jhipster.security.*;

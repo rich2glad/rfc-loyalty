@@ -1,4 +1,4 @@
-package com.rfb.service.mapper;
+package com.rfc.service.mapper;
 
 import java.util.List;
 

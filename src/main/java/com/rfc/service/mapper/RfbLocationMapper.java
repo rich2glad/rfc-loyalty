@@ -1,7 +1,7 @@
-package com.rfb.service.mapper;
+package com.rfc.service.mapper;
 
-import com.rfb.domain.RfbLocation;
-import com.rfb.service.dto.RfbLocationDTO;
+import com.rfc.domain.RfbLocation;
+import com.rfc.service.dto.RfbLocationDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

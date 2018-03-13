@@ -1,6 +1,6 @@
-package com.rfb.web.rest.vm;
+package com.rfc.web.rest.vm;
 
-import com.rfb.service.dto.UserDTO;
+import com.rfc.service.dto.UserDTO;
 import javax.validation.constraints.Size;
 
 import java.time.Instant;

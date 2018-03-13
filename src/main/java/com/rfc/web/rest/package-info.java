@@ -1,4 +1,4 @@
 /**
  * Spring MVC REST controllers.
  */
-package com.rfb.web.rest;
+package com.rfc.web.rest;

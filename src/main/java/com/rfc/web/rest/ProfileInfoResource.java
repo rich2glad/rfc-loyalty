@@ -1,6 +1,6 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
-import com.rfb.config.DefaultProfileUtil;
+import com.rfc.config.DefaultProfileUtil;
 
 import io.github.jhipster.config.JHipsterProperties;
 

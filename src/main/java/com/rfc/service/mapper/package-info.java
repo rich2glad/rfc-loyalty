@@ -1,4 +1,4 @@
 /**
  * MapStruct mappers for mapping domain objects and Data Transfer Objects.
  */
-package com.rfb.service.mapper;
+package com.rfc.service.mapper;

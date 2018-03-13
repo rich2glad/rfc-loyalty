@@ -1,6 +1,6 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.service.dto.RfbLocationDTO;
+import com.rfc.service.dto.RfbLocationDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

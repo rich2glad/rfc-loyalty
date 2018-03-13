@@ -1,4 +1,4 @@
-package com.rfb.security;
+package com.rfc.security;
 
 import org.springframework.security.core.AuthenticationException;
 

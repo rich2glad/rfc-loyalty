@@ -1,4 +1,4 @@
-package com.rfb.config;
+package com.rfc.config;
 
 import org.apache.commons.lang3.CharEncoding;
 import org.slf4j.Logger;

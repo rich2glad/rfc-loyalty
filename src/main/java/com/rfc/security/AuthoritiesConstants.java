@@ -1,4 +1,4 @@
-package com.rfb.security;
+package com.rfc.security;
 
 /**
  * Constants for Spring Security authorities.

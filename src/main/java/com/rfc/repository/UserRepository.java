@@ -1,7 +1,7 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.domain.Authority;
-import com.rfb.domain.User;
+import com.rfc.domain.Authority;
+import com.rfc.domain.User;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

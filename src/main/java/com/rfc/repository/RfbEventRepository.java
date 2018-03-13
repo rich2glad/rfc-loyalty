@@ -1,9 +1,9 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.domain.RfbEvent;
-import com.rfb.domain.RfbLocation;
-import com.rfb.service.dto.RfbEventDTO;
-import com.rfb.service.dto.RfbLocationDTO;
+import com.rfc.domain.RfbEvent;
+import com.rfc.domain.RfbLocation;
+import com.rfc.service.dto.RfbEventDTO;
+import com.rfc.service.dto.RfbLocationDTO;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

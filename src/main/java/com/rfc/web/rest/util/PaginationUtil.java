@@ -1,4 +1,4 @@
-package com.rfb.web.rest.util;
+package com.rfc.web.rest.util;
 
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpHeaders;

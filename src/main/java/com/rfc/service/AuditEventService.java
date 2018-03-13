@@ -1,7 +1,7 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.config.audit.AuditEventConverter;
-import com.rfb.repository.PersistenceAuditEventRepository;
+import com.rfc.config.audit.AuditEventConverter;
+import com.rfc.repository.PersistenceAuditEventRepository;
 import org.springframework.boot.actuate.audit.AuditEvent;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

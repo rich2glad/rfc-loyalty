@@ -1,4 +1,4 @@
-package com.rfb.config;
+package com.rfc.config;
 
 import io.github.jhipster.async.ExceptionHandlingAsyncTaskExecutor;
 import io.github.jhipster.config.JHipsterProperties;

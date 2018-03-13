@@ -1,6 +1,6 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
-import com.rfb.web.rest.vm.LoggerVM;
+import com.rfc.web.rest.vm.LoggerVM;
 
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.LoggerContext;

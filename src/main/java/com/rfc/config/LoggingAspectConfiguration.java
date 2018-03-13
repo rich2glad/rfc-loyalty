@@ -1,6 +1,6 @@
-package com.rfb.config;
+package com.rfc.config;
 
-import com.rfb.aop.logging.LoggingAspect;
+import com.rfc.aop.logging.LoggingAspect;
 
 import io.github.jhipster.config.JHipsterConstants;
 

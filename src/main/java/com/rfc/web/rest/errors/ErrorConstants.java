@@ -1,4 +1,4 @@
-package com.rfb.web.rest.errors;
+package com.rfc.web.rest.errors;
 
 import java.net.URI;
 

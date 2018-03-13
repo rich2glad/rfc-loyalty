@@ -1,4 +1,4 @@
-package com.rfb.security.social;
+package com.rfc.security.social;
 
 import io.github.jhipster.config.JHipsterProperties;
 

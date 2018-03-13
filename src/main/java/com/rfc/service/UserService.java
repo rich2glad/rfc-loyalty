@@ -1,17 +1,17 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.domain.Authority;
-import com.rfb.domain.RfbLocation;
-import com.rfb.domain.User;
-import com.rfb.repository.AuthorityRepository;
-import com.rfb.repository.PersistentTokenRepository;
-import com.rfb.config.Constants;
-import com.rfb.repository.RfbLocationRepository;
-import com.rfb.repository.UserRepository;
-import com.rfb.security.AuthoritiesConstants;
-import com.rfb.security.SecurityUtils;
-import com.rfb.service.util.RandomUtil;
-import com.rfb.service.dto.UserDTO;
+import com.rfc.domain.Authority;
+import com.rfc.domain.RfbLocation;
+import com.rfc.domain.User;
+import com.rfc.repository.AuthorityRepository;
+import com.rfc.repository.PersistentTokenRepository;
+import com.rfc.config.Constants;
+import com.rfc.repository.RfbLocationRepository;
+import com.rfc.repository.UserRepository;
+import com.rfc.security.AuthoritiesConstants;
+import com.rfc.security.SecurityUtils;
+import com.rfc.service.util.RandomUtil;
+import com.rfc.service.dto.UserDTO;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

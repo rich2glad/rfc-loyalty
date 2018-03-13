@@ -1,4 +1,4 @@
-package com.rfb.config;
+package com.rfc.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;

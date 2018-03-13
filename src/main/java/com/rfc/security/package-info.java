@@ -1,4 +1,4 @@
 /**
  * Spring Security configuration.
  */
-package com.rfb.security;
+package com.rfc.security;

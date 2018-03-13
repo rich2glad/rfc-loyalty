@@ -1,4 +1,4 @@
-package com.rfb.config;
+package com.rfc.config;
 
 import com.fasterxml.jackson.datatype.hibernate5.Hibernate5Module;
 import com.fasterxml.jackson.module.afterburner.AfterburnerModule;

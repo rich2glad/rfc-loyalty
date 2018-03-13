@@ -1,4 +1,4 @@
-package com.rfb.service.util;
+package com.rfc.service.util;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

@@ -1,4 +1,4 @@
-package com.rfb.domain;
+package com.rfc.domain;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

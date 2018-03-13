@@ -1,7 +1,7 @@
-package com.rfb.domain;
+package com.rfc.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.rfb.config.Constants;
+import com.rfc.config.Constants;
 import org.apache.commons.lang3.StringUtils;
 import org.hibernate.annotations.BatchSize;
 import org.hibernate.annotations.Cache;

@@ -1,4 +1,4 @@
-package com.rfb.domain;
+package com.rfc.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.annotations.Cache;

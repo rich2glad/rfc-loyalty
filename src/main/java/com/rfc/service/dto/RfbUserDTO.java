@@ -1,7 +1,7 @@
-package com.rfb.service.dto;
+package com.rfc.service.dto;
 
 
-import com.rfb.domain.RfbLocation;
+import com.rfc.domain.RfbLocation;
 
 import java.io.Serializable;
 import java.util.Objects;

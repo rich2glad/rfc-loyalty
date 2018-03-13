@@ -1,4 +1,4 @@
-package com.rfb.domain;
+package com.rfc.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.annotations.Cache;
@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * Persistent tokens are used by Spring Security to automatically log in users.
  *
- * @see com.rfb.security.PersistentTokenRememberMeServices
+ * @see com.rfc.security.PersistentTokenRememberMeServices
  */
 @Entity
 @Table(name = "jhi_persistent_token")
@@ -31,7 +31,7 @@ public class PersistentToken implements Serializable {
     @NotNull
     @Column(name = "token_value", nullable = false)
     private String tokenValue;
-    
+
     @Column(name = "token_date")
     private LocalDate tokenDate;
 

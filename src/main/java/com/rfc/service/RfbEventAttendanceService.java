@@ -1,6 +1,6 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.service.dto.RfbEventAttendanceDTO;
+import com.rfc.service.dto.RfbEventAttendanceDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

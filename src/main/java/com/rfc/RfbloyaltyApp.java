@@ -1,7 +1,7 @@
-package com.rfb;
+package com.rfc;
 
-import com.rfb.config.ApplicationProperties;
-import com.rfb.config.DefaultProfileUtil;
+import com.rfc.config.ApplicationProperties;
+import com.rfc.config.DefaultProfileUtil;
 
 import io.github.jhipster.config.JHipsterConstants;
 

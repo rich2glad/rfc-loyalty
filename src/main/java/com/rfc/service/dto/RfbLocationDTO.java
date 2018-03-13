@@ -1,4 +1,4 @@
-package com.rfb.service.dto;
+package com.rfc.service.dto;
 
 
 import java.io.Serializable;

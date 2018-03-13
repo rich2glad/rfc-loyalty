@@ -1,13 +1,13 @@
-package com.rfb.service.impl;
+package com.rfc.service.impl;
 
-import com.rfb.domain.RfbEvent;
-import com.rfb.domain.RfbLocation;
-import com.rfb.repository.RfbEventRepository;
-import com.rfb.repository.RfbLocationRepository;
-import com.rfb.service.RfbEventService;
-import com.rfb.service.RfbLocationService;
-import com.rfb.service.dto.RfbEventDTO;
-import com.rfb.service.mapper.RfbEventMapper;
+import com.rfc.domain.RfbEvent;
+import com.rfc.domain.RfbLocation;
+import com.rfc.repository.RfbEventRepository;
+import com.rfc.repository.RfbLocationRepository;
+import com.rfc.service.RfbEventService;
+import com.rfc.service.RfbLocationService;
+import com.rfc.service.dto.RfbEventDTO;
+import com.rfc.service.mapper.RfbEventMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.Page;

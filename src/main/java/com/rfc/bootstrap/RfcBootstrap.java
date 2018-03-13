@@ -1,11 +1,11 @@
-package com.rfb.bootstrap;
+package com.rfc.bootstrap;
 
-import com.rfb.domain.RfbEvent;
-import com.rfb.domain.RfbEventAttendance;
-import com.rfb.domain.RfbLocation;
-import com.rfb.domain.User;
-import com.rfb.repository.*;
-import com.rfb.security.AuthoritiesConstants;
+import com.rfc.domain.RfbEvent;
+import com.rfc.domain.RfbEventAttendance;
+import com.rfc.domain.RfbLocation;
+import com.rfc.domain.User;
+import com.rfc.repository.*;
+import com.rfc.security.AuthoritiesConstants;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
@@ -20,7 +20,7 @@ import java.util.UUID;
  * Created by jt on 10/14/17.
  */
 @Component
-public class RfbBootstrap implements CommandLineRunner {
+public class RfcBootstrap implements CommandLineRunner {
 
     private final RfbLocationRepository rfbLocationRepository;
     private final RfbEventRepository rfbEventRepository;
@@ -29,7 +29,7 @@ public class RfbBootstrap implements CommandLineRunner {
     private final PasswordEncoder passwordEncoder;
     private final AuthorityRepository authorityRepository;
 
-    public RfbBootstrap(RfbLocationRepository rfbLocationRepository, RfbEventRepository rfbEventRepository,
+    public RfcBootstrap(RfbLocationRepository rfbLocationRepository, RfbEventRepository rfbEventRepository,
                         RfbEventAttendanceRepository rfbEventAttendanceRepository, UserRepository userRepository,
                         PasswordEncoder passwordEncoder, AuthorityRepository authorityRepository) {
         this.rfbLocationRepository = rfbLocationRepository;

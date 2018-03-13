@@ -1,6 +1,6 @@
-package com.rfb.config.audit;
+package com.rfc.config.audit;
 
-import com.rfb.domain.PersistentAuditEvent;
+import com.rfc.domain.PersistentAuditEvent;
 
 import org.springframework.boot.actuate.audit.AuditEvent;
 import org.springframework.security.web.authentication.WebAuthenticationDetails;

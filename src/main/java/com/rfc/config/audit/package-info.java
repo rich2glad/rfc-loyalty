@@ -1,4 +1,4 @@
 /**
  * Audit specific code.
  */
-package com.rfb.config.audit;
+package com.rfc.config.audit;

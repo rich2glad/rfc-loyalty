@@ -1,9 +1,9 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.domain.Authority;
-import com.rfb.domain.User;
-import com.rfb.repository.AuthorityRepository;
-import com.rfb.repository.UserRepository;
+import com.rfc.domain.Authority;
+import com.rfc.domain.User;
+import com.rfc.repository.AuthorityRepository;
+import com.rfc.repository.UserRepository;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.lang3.StringUtils;

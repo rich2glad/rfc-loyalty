@@ -1,8 +1,8 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.config.Constants;
-import com.rfb.config.audit.AuditEventConverter;
-import com.rfb.domain.PersistentAuditEvent;
+import com.rfc.config.Constants;
+import com.rfc.config.audit.AuditEventConverter;
+import com.rfc.domain.PersistentAuditEvent;
 
 import org.springframework.boot.actuate.audit.AuditEvent;
 import org.springframework.boot.actuate.audit.AuditEventRepository;

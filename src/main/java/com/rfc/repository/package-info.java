@@ -1,4 +1,4 @@
 /**
  * Spring Data JPA repositories.
  */
-package com.rfb.repository;
+package com.rfc.repository;

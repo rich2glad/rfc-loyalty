@@ -1,7 +1,7 @@
-package com.rfb.security;
+package com.rfc.security;
 
-import com.rfb.domain.User;
-import com.rfb.repository.UserRepository;
+import com.rfc.domain.User;
+import com.rfc.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.authentication.LockedException;

@@ -1,6 +1,6 @@
-package com.rfb;
+package com.rfc;
 
-import com.rfb.config.DefaultProfileUtil;
+import com.rfc.config.DefaultProfileUtil;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 

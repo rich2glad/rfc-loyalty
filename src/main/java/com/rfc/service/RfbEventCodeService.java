@@ -1,9 +1,9 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.domain.RfbEvent;
-import com.rfb.domain.RfbLocation;
-import com.rfb.repository.RfbEventRepository;
-import com.rfb.repository.RfbLocationRepository;
+import com.rfc.domain.RfbEvent;
+import com.rfc.domain.RfbLocation;
+import com.rfc.repository.RfbEventRepository;
+import com.rfc.repository.RfbLocationRepository;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

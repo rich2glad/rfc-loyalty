@@ -1,16 +1,16 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
-import com.rfb.config.Constants;
+import com.rfc.config.Constants;
 import com.codahale.metrics.annotation.Timed;
-import com.rfb.domain.User;
-import com.rfb.repository.UserRepository;
-import com.rfb.security.AuthoritiesConstants;
-import com.rfb.service.MailService;
-import com.rfb.service.UserService;
-import com.rfb.service.dto.UserDTO;
-import com.rfb.web.rest.vm.ManagedUserVM;
-import com.rfb.web.rest.util.HeaderUtil;
-import com.rfb.web.rest.util.PaginationUtil;
+import com.rfc.domain.User;
+import com.rfc.repository.UserRepository;
+import com.rfc.security.AuthoritiesConstants;
+import com.rfc.service.MailService;
+import com.rfc.service.UserService;
+import com.rfc.service.dto.UserDTO;
+import com.rfc.web.rest.vm.ManagedUserVM;
+import com.rfc.web.rest.util.HeaderUtil;
+import com.rfc.web.rest.util.PaginationUtil;
 import io.github.jhipster.web.util.ResponseUtil;
 import io.swagger.annotations.ApiParam;
 

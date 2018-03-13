@@ -1,7 +1,7 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
-import com.rfb.service.AuditEventService;
-import com.rfb.web.rest.util.PaginationUtil;
+import com.rfc.service.AuditEventService;
+import com.rfc.web.rest.util.PaginationUtil;
 
 import io.github.jhipster.web.util.ResponseUtil;
 import io.swagger.annotations.ApiParam;

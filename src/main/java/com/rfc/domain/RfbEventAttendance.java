@@ -1,4 +1,4 @@
-package com.rfb.domain;
+package com.rfc.domain;
 
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;

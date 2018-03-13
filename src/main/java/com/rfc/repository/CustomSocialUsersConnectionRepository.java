@@ -1,6 +1,6 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.domain.SocialUserConnection;
+import com.rfc.domain.SocialUserConnection;
 
 import org.springframework.social.connect.*;
 

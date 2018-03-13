@@ -1,7 +1,7 @@
-package com.rfb.service.mapper;
+package com.rfc.service.mapper;
 
-import com.rfb.domain.RfbEventAttendance;
-import com.rfb.service.dto.RfbEventAttendanceDTO;
+import com.rfc.domain.RfbEventAttendance;
+import com.rfc.service.dto.RfbEventAttendanceDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

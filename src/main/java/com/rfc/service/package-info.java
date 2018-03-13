@@ -1,4 +1,4 @@
 /**
  * Service layer beans.
  */
-package com.rfb.service;
+package com.rfc.service;

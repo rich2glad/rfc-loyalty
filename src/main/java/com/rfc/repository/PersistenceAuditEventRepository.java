@@ -1,6 +1,6 @@
-package com.rfb.repository;
+package com.rfc.repository;
 
-import com.rfb.domain.PersistentAuditEvent;
+import com.rfc.domain.PersistentAuditEvent;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

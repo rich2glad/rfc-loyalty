@@ -1,4 +1,4 @@
-package com.rfb.aop.logging;
+package com.rfc.aop.logging;
 
 import io.github.jhipster.config.JHipsterConstants;
 

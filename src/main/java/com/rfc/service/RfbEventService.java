@@ -1,7 +1,7 @@
-package com.rfb.service;
+package com.rfc.service;
 
-import com.rfb.domain.RfbEvent;
-import com.rfb.service.dto.RfbEventDTO;
+import com.rfc.domain.RfbEvent;
+import com.rfc.service.dto.RfbEventDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

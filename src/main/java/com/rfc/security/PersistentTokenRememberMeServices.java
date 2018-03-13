@@ -1,9 +1,9 @@
-package com.rfb.security;
+package com.rfc.security;
 
-import com.rfb.domain.PersistentToken;
-import com.rfb.repository.PersistentTokenRepository;
-import com.rfb.repository.UserRepository;
-import com.rfb.service.util.RandomUtil;
+import com.rfc.domain.PersistentToken;
+import com.rfc.repository.PersistentTokenRepository;
+import com.rfc.repository.UserRepository;
+import com.rfc.service.util.RandomUtil;
 
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;

@@ -1,11 +1,11 @@
-package com.rfb.web.rest;
+package com.rfc.web.rest;
 
 import com.codahale.metrics.annotation.Timed;
-import com.rfb.domain.RfbEvent;
-import com.rfb.service.RfbEventService;
-import com.rfb.service.dto.RfbEventDTO;
-import com.rfb.web.rest.util.HeaderUtil;
-import com.rfb.web.rest.util.PaginationUtil;
+import com.rfc.domain.RfbEvent;
+import com.rfc.service.RfbEventService;
+import com.rfc.service.dto.RfbEventDTO;
+import com.rfc.web.rest.util.HeaderUtil;
+import com.rfc.web.rest.util.PaginationUtil;
 import io.github.jhipster.web.util.ResponseUtil;
 import io.swagger.annotations.ApiParam;
 import org.slf4j.Logger;
