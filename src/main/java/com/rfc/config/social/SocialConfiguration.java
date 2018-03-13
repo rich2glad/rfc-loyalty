@@ -1,8 +1,8 @@
-package com.rfb.config.social;
+package com.rfc.config.social;
 
-import com.rfb.repository.SocialUserConnectionRepository;
-import com.rfb.repository.CustomSocialUsersConnectionRepository;
-import com.rfb.security.social.CustomSignInAdapter;
+import com.rfc.repository.SocialUserConnectionRepository;
+import com.rfc.repository.CustomSocialUsersConnectionRepository;
+import com.rfc.security.social.CustomSignInAdapter;
 
 import io.github.jhipster.config.JHipsterProperties;
 

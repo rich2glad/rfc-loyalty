@@ -38,20 +38,20 @@ public class CacheConfiguration {
     public JCacheManagerCustomizer cacheManagerCustomizer() {
         return cm -> {
             cm.createCache("users", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.User.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.Authority.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.User.class.getName() + ".authorities", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.PersistentToken.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.User.class.getName() + ".persistentTokens", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.SocialUserConnection.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbLocation.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbLocation.class.getName() + ".rvbEvents", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbEvent.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbEvent.class.getName() + ".rfbEventAttendances", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbEventAttendance.class.getName(), jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbEventAttendance.class.getName() + ".rvbEvents", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.RfbEventAttendance.class.getName() + ".users", jcacheConfiguration);
-            cm.createCache(com.rfb.domain.User.class.getName() + ".rfbEventAttendances", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.User.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.Authority.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.PersistentToken.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.User.class.getName() + ".persistentTokens", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.SocialUserConnection.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbLocation.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbLocation.class.getName() + ".rvbEvents", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbEvent.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbEvent.class.getName() + ".rfbEventAttendances", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbEventAttendance.class.getName(), jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbEventAttendance.class.getName() + ".rvbEvents", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.RfbEventAttendance.class.getName() + ".users", jcacheConfiguration);
+            cm.createCache(com.rfc.domain.User.class.getName() + ".rfbEventAttendances", jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }
